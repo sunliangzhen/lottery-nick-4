@@ -31,6 +31,7 @@ dependencies {
 //    compile 'cn.jiguang.sdk:jcore:1.1.7'
     implementation 'com.just.agentweb:agentweb:4.0.0'
     implementation 'com.just.agentweb:download:4.0.0'
+    api 'org.xutils:xutils:3.3.36'
 }
 
 // 指定编码
