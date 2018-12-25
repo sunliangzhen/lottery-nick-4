@@ -1,0 +1,35 @@
+{
+  "user_bg": "http://jianzhimao.oss-cn-hangzhou.aliyuncs.com/jzmao/ffads/linliwen_1533637398318.jpg",
+  "user_logo": "ic_logo",
+  "user_text": "登录/注册2",
+  "main": [
+    {
+      "text": "版本更新",
+      "text_color": "#444444",
+      "text_size": "45",
+      "text_bg": "#ffffff",
+      "type": "1"
+    },
+    {
+      "text": "问题反馈",
+      "text_color": "#444444",
+      "text_size": "45",
+      "text_bg": "#ffffff",
+      "type": "2"
+    },
+    {
+      "text": "清理缓存",
+      "text_color": "#444444",
+      "text_size": "45",
+      "text_bg": "#ffffff",
+      "type": "3"
+    },
+    {
+      "text": "关于App",
+      "text_color": "#444444",
+      "text_size": "45",
+      "text_bg": "#ffffff",
+      "type": "4"
+    }
+  ]
+}

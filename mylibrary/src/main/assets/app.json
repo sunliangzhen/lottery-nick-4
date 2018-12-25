@@ -1,0 +1,124 @@
+{
+  "app": {
+    "app_type": "1",
+    "webPageNum": "4",
+    "isShowsetingPage": "1",
+    "is_first_login": "0",
+    "status_bg": "#E40000",
+    "status_text_color_type": "2"
+  },
+  "guide": {
+    "is_need": "0",
+    "img_url": "launchimage2"
+  },
+  "progress": {
+    "progress_bg": "#E40000",
+    "progress_type": "5",
+    "text": "重新加载",
+    "text_color": "#E40000",
+    "text_size": "40",
+    "nonet_img": "empty_no_network",
+    "img_h": "550",
+    "img_w": "550"
+  },
+  "feedback": {
+    "text": "意见反馈",
+    "text_bg": "#E40000",
+    "text_color": "#ffffff",
+    "gmail": "5201314sunyan5201314@gmail.com",
+    "img_back": "ic_back"
+  },
+  "bottom_h": "150",
+  "navigationIsShowImg": "0",
+  "main": [
+    {
+      "img_check": "ic_main_1_check",
+      "img_normal": "ic_main_1_normal",
+      "img_h": "75",
+      "img_w": "75",
+      "text": "首页",
+      "text_color": "#777777",
+      "text_color_check": "#E40000",
+      "text_size": "45",
+      "webcover_b_h": "0",
+      "web_t_h": "150",
+      "webcover_t_h": "150",
+      "web_title": "首页",
+      "web_text_size": "50",
+      "web_text_color": "#ffffff",
+      "web_text_bg": "#E40000",
+      "web_url": "http://m.310win.com/Trade/Info/ArticleList.aspx?articleType=3"
+    },
+
+    {
+      "img_check": "ic_main_2_check",
+      "img_normal": "ic_main_2_normal",
+      "img_h": "75",
+      "img_w": "75",
+      "text": "开奖",
+      "text_color": "#777777",
+      "text_color_check": "#E40000",
+      "text_size": "45",
+      "webcover_b_h": "0",
+      "web_t_h": "150",
+      "webcover_t_h": "150",
+      "web_title": "开奖",
+      "web_text_size": "50",
+      "web_text_color": "#ffffff",
+      "web_text_bg": "#E40000",
+      "web_url": "http://m.310win.com/Trade/DrawInfo/OtherDrawList.aspx?lotteryType=30011&ret=http%3A%2F%2Fm.310win.com%2FTrade%2FDrawInfo%2FDrawInfoMain.aspx%3Ftype%3D3"
+    },
+    {
+      "img_check": "ic_main_3_check",
+      "img_normal": "ic_main_3_normal",
+      "img_h": "75",
+      "img_w": "75",
+      "text": "走势",
+      "text_color": "#777777",
+      "text_color_check": "#E40000",
+      "text_size": "45",
+      "webcover_b_h": "0",
+      "web_t_h": "150",
+      "webcover_t_h": "150",
+      "web_title": "走势",
+      "web_text_size": "50",
+      "web_text_color": "#ffffff",
+      "web_text_bg": "#E40000",
+      "web_url": "http://m.310win.com/chart/ChartDetail.aspx?typeId=10&chartType=0"
+    },
+    {
+      "img_check": "ic_main_4_check",
+      "img_normal": "ic_main_4_normal",
+      "img_h": "75",
+      "img_w": "75",
+      "text": "大乐透",
+      "text_color": "#777777",
+      "text_color_check": "#E40000",
+      "text_size": "45",
+      "webcover_b_h": "0",
+      "web_t_h": "150",
+      "webcover_t_h": "150",
+      "web_title": "大乐透",
+      "web_text_size": "50",
+      "web_text_color": "#ffffff",
+      "web_text_bg": "#E40000",
+      "web_url": "http://m.310win.com/Trade/DrawInfo/ZcOrDigitResult.aspx?issueId=1983592"
+    },
+    {
+      "img_check": "ic_main_5_check",
+      "img_normal": "ic_main_5_normal",
+      "img_h": "75",
+      "img_w": "75",
+      "text": "我的",
+      "text_color": "#777777",
+      "text_color_check": "#E40000",
+      "text_size": "45",
+      "web_t_h": "150",
+      "web_title": "我的",
+      "web_text_size": "50",
+      "web_text_color": "#ffffff",
+      "web_text_bg": "#D93F3F",
+      "web_url": ""
+    }
+  ]
+}

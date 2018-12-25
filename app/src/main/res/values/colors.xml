@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="status_bar">#FF0000</color>              <!--状态栏背景颜色-->
+
+    <color name="slide_txt">#ffffff</color>              <!--侧栏字体颜色-->
+    <color name="main_color">#E40000</color>           <!--主题颜色-->
+
+
+    <color name="login_btn">#FFFF0000</color>            <!--登录注册背景-->
+    <color name="login_btn2">#3F51B5</color>            <!--登录注册背景-->
+
+
+    <color name="black">#000000</color>
+
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="white">#FFFFFFFF</color>
+    <color name="red">#FFFF0000</color>
+    <color name="gray">#FFF0F0F0</color>
+
+    <color name="progress">#D5D9D9</color>
+
+    <color name="main_colors">#F3BC2F</color>
+
+    <color name="colorPrimaryDark">#303F9F</color>
+
+    <color name="main_color2">#db8f2c</color>
+    <color name="bg_color">#f1f1f1</color>
+    <color name="tv_text_gray">#777777</color>
+    <color name="tv_text_gray2">#f1f1f1</color>
+    <color name="tv_text_gray4">#808080</color>
+    <color name="colorTheme">#1da8fe</color>
+
+
+    <color name="alpha_50_percent_black">#80000000</color>
+    <color name="alpha_60_percent_black">#99000000</color>
+
+    <color name="myaa00">#55000000</color>
+
+    <color name="transparent">#00000000</color>
+    <color name="orange">#FA8C20</color>
+</resources>
