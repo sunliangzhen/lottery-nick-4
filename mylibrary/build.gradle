@@ -29,8 +29,8 @@ dependencies {
     implementation 'com.android.support:appcompat-v7:26.+'
 //    compile 'cn.jiguang.sdk:jpush:3.0.9'
 //    compile 'cn.jiguang.sdk:jcore:1.1.7'
-    api 'com.just.agentweb:agentweb:4.0.0'
-    api 'com.just.agentweb:download:4.0.0'
+    implementation 'com.just.agentweb:agentweb:4.0.0'
+    implementation 'com.just.agentweb:download:4.0.0'
 }
 
 // 指定编码
